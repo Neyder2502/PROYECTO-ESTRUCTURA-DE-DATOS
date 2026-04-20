@@ -21,7 +21,7 @@ El sistema ha pasado por dos fases críticas de desarrollo:
 1.  **Fase 1 (Listas Enlazadas):** 
 	Implementación inicial utilizando colas con prioridad para organizar reservas por hora.
 2.  **Fase 2 (Árboles AVL):** 
-	Optimización total del sistema migrando a un **Árbol Binario de Búsqueda Balanceado (AVL)**. Esto redujo la complejidad de búsqueda de $O(n)$ a $O(\log n)$, garantizando rapidez incluso con miles de registros.
+	Optimización total del sistema migrando a un Árbol Binario de Búsqueda Balanceado (AVL). Esto redujo la complejidad de búsqueda de $O(n)$ a $O(\log n)$, garantizando rapidez incluso con miles de registros.
 
 ## Características Principales
 
@@ -33,7 +33,7 @@ El sistema ha pasado por dos fases críticas de desarrollo:
 
 ## Tecnologías Utilizadas
 
-* **Lenguaje:** Python 3.x
+* **Lenguaje:** Python 3.13
 * **Estructuras:** * Árboles AVL (Balanceo por altura).
     * Diccionarios para gestión horaria.
     * Algoritmos de recorrido (Inorden y BFS).
