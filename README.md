@@ -1,6 +1,13 @@
 # Sistema de Gestión de Reservas - Restaurante V2
 
 
+## Notion
+
+El enlace al Notion se encuentra a continuacion:
+
+[![Notion](https://img.shields.io/badge/Documentación_del_Proyecto-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/SISTEMA-DE-RESERVAS-DE-UN-RESTAURANTE-2ffd914b0c91805bafa6d94f9ea1bd91)
+
+
 ## Integrantes
 
 * **Neyder Peña** - Cod: 2252004
