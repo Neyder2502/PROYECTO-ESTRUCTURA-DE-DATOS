@@ -31,7 +31,7 @@ El sistema ha pasado por dos fases críticas de desarrollo:
 * **Búsqueda Ultra-rápida:** Localización de reservas mediante el número de cédula.
 
 
-## 💻 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 * **Lenguaje:** Python 3.x
 * **Estructuras:** * Árboles AVL (Balanceo por altura).
