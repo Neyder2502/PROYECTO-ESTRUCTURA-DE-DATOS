@@ -41,6 +41,7 @@ El sistema ha pasado por dos fases críticas de desarrollo:
 ## Tecnologías Utilizadas
 
 * **Lenguaje:** Python 3.13
-* **Estructuras:** * Árboles AVL (Balanceo por altura).
+* **Estructuras:** 
+    * Árboles AVL (Balanceo por altura).
     * Diccionarios para gestión horaria.
     * Algoritmos de recorrido (Inorden y BFS).
